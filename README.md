@@ -7,12 +7,16 @@ This project demonstrates core backend concepts like CRUD operations, request va
 
 ## 📌 Features
 
+* Full CRUD operations
+* Input validation
+* Modular structure using routers
 * Create a new note 📝
 * Get all notes 📖
 * Get a single note by ID 🔍
 * Update existing notes ✏️
 * Delete notes ❌
 * Proper status codes & error handling ⚡
+
 
 ---
 
